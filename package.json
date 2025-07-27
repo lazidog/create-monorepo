@@ -1,0 +1,13 @@
+{
+  "name": "create-monorepo",
+  "version": "1.0.0",
+  "bin": {
+    "create-monorepo": "index.js"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "scaffold"
+  ],
+  "preferGlobal": true
+}
