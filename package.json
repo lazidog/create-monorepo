@@ -1,13 +1,21 @@
 {
   "name": "create-monorepo",
   "version": "1.0.0",
+  "description": "A CLI tool to scaffold pnpm monorepo project",
+  "main": "index.js",
   "bin": {
     "create-monorepo": "index.js"
   },
+  "files": [
+    "index.js",
+    "template"
+  ],
   "keywords": [
     "cli",
     "template",
     "scaffold"
   ],
+  "author": "lazidog",
+  "license": "MIT",
   "preferGlobal": true
 }
